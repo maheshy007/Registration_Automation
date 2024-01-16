@@ -56,7 +56,7 @@ public class RegistrationForm {
 	System.out.println(driver.findElement(By.cssSelector(".alert-success")).getText());
 
 	
-	// driver.close();
+	 driver.close();
 	
 	
 	}
